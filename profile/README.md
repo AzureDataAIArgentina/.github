@@ -9,7 +9,7 @@ Cualquier persona interesada en el mundo de **Datos e AI**, sin importar su nive
 
 - **Ingenieros/as y Científicos/as de Datos**  
 - **Analistas de Negocio, Administradores/as de Bases de Datos**  
-- **Profesionales de otras industrias** (médicos, arquitectos, abogados, etc.) que utilicen datos e inteligencia artificial  
+- **Profesionales de otras industrias** (médicos, arquitectos, abogados, economistas, contadores, etc.) que utilicen datos e inteligencia artificial  
 - **Estudiantes y entusiastas**  
 
 ## 🚀 ¿Cómo participar?  
