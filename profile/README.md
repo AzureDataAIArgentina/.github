@@ -32,7 +32,7 @@ Iniciamos en **Rosario** y planeamos expandirnos a más regiones y cuidades de A
 ## 📩 Contacto  
 📧 **hola@azuredataai.ar**  
 🔗 [LinkedIn Group](https://www.linkedin.com/groups/14624307/)  
-📂 [GitHub Org](https://github.com/Azure-Data-AI-Argentina)  
-📺 [YouTube](https://www.youtube.com/@AzureDataAIArgentina)  
+📂 [GitHub Org](https://github.com/AzureDataAIArgentina)  
+📺 [YouTube](https://www.youtube.com/@AzureDataAIArgentina)
 
 👥 **¡Únete y se parte de la comunidad!**  
